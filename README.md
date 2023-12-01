@@ -2,6 +2,6 @@
 
 ## Preview Image
 
-![My-First-Dev-Assignment](https://github.com/selimbiber/My-First-Dev-Assignment/assets/117529414/c6b4b61a-f1d5-42a5-9074-87a8a65bae80)
+![My-First-Dev-Assignment](https://github.com/selimbiber/My-First-Dev-Assignment/assets/117529414/92636359-6193-4597-8e70-b5130f2404ab)
 
 ### [Preview Link](https://selimbiber.github.io/My-First-Dev-Assignment/)
